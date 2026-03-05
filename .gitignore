@@ -1,0 +1,3 @@
+temp_snapshot.txt
+*.jsonl
+.claude/settings.local.json
