@@ -4,7 +4,7 @@
 
 | WeChat Official Account (公众号) | WeChat Group (微信群) | Discord |
 |:---:|:---:|:---:|
-| <img src="qrcode_for_gh_a1c14419b847_258.jpg" width="200"> | <img src="0309.jpg" width="200"> | [Join Discord](https://discord.gg/tGd5vTDASg) |
+| <img src="qrcode_for_gh_a1c14419b847_258.jpg" width="200"> | <img src="0317.jpg" width="200"> | [Join Discord](https://discord.gg/tGd5vTDASg) |
 | 未来论文实验室 | 扫码加入交流群 | English & Chinese |
 
 ---
